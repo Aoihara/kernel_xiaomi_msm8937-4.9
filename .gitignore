@@ -109,6 +109,7 @@ signing_key.pem
 signing_key.priv
 signing_key.x509
 x509.genkey
+testing.log
 
 # Kconfig presets
 all.config
@@ -118,3 +119,6 @@ all.config
 
 # fetched Android config fragments
 kernel/configs/android-*.cfg
+
+# out
+out
