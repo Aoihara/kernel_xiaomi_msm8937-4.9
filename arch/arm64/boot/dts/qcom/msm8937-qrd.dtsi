@@ -164,7 +164,5 @@
 };
 
 &thermal_zones {
-	quiet-therm-step {
-		status = "disabled";
-	};
+	/delete-node/ pa-therm1-adc;
 };
